@@ -1,0 +1,41 @@
+ 1. Exercícios para `byte`:
+   - Problema 1: Um dispositivo eletrônico tem um contador que vai de -50 a 50. Declare e inicialize um valor para o contador utilizando o tipo `byte`. Exiba o valor atual e verifique se ele está dentro do intervalo permitido (-50 a 50).
+   - Problema 2: Um elevador suporta até 100 pessoas em seu painel de controle. Use uma variável `byte` para armazenar a quantidade atual de pessoas no elevador e exiba uma mensagem dizendo se o limite foi atingido ou não.
+   - Problema 3: Uma máquina de café pode preparar até 127 xícaras por dia. Declare uma variável `byte` para acompanhar o número de cafés feitos. Atualize o valor cada vez que um novo café for feito e exiba a quantidade atual.
+   - Problema 4: Um parque permite a entrada de até 30 crianças por vez. Declare uma variável `byte` para representar o número de crianças atualmente no parque e exiba uma mensagem quando o parque estiver cheio.
+   - Problema 5: Em um sistema de controle de temperaturas, o valor de uma temperatura armazenada como `byte` deve ser comparado com um limite de -20 a 30 graus. Verifique se a temperatura está dentro do intervalo permitido.
+
+ 2. Exercícios para `short`:
+   - Problema 1: Um estádio pode acomodar até 32.000 espectadores. Crie uma variável `short` para armazenar o número de espectadores e exiba uma mensagem se o estádio estiver cheio.
+   - Problema 2: Um carro tem um velocímetro que pode medir até 327 km/h. Use o tipo `short` para representar a velocidade atual do carro e verifique se está dentro do limite legal de 120 km/h.
+   - Problema 3: Um navio tem um contador para medir a distância percorrida, que vai de 0 até 30.000 km. Declare uma variável `short` para representar essa distância e exiba o valor atual.
+   - Problema 4: Um reservatório de água pode armazenar até 32.000 litros. Crie um programa que use uma variável `short` para representar a quantidade atual de água no reservatório e verifique se há necessidade de encher mais água.
+   - Problema 5: Em um torneio, o sistema de pontuação de um time utiliza uma variável `short` que pode variar entre -30 e 30 pontos. Verifique se a pontuação está dentro desse intervalo.
+
+ 3. Exercícios para `int`:
+   - Problema 1: Uma empresa vende um produto cujo código de barras pode conter até 10 dígitos. Declare uma variável `int` para armazenar o código de barras e verifique se o código fornecido tem 10 dígitos.
+   - Problema 2: Um banco tem um limite de 2 milhões de transações por dia. Crie uma variável `int` para armazenar o número de transações realizadas e exiba uma mensagem se o limite diário foi atingido.
+   - Problema 3: Uma escola registra o número de alunos matriculados por semestre, que pode chegar até 50.000. Use uma variável `int` para armazenar esse valor e exiba uma mensagem se a escola ultrapassou a capacidade máxima de alunos.
+   - Problema 4: Um jogo de computador pode ter até 2 bilhões de pontos de vida. Crie uma variável `int` para armazenar os pontos de vida do jogador e atualize o valor ao longo do jogo, exibindo os pontos restantes.
+   - Problema 5: Um aplicativo de música pode armazenar até 100 milhões de músicas. Crie uma variável `int` para representar a quantidade de músicas baixadas e verifique se o usuário atingiu o limite máximo.
+
+ 4. Exercícios para `long`:
+   - Problema 1: Uma agência espacial calcula a distância entre a Terra e um asteroide em quilômetros, podendo chegar até trilhões de quilômetros. Use uma variável `long` para representar essa distância e exiba o valor.
+   - Problema 2: Um servidor de um grande site armazena até 1 bilhão de acessos por dia. Crie uma variável `long` para armazenar o número de acessos e exiba uma mensagem quando o site atingir 500 milhões de acessos.
+   - Problema 3: Um país contabiliza sua população, que pode chegar a 1 bilhão de pessoas. Declare uma variável `long` para representar a população e verifique se ultrapassou 1 bilhão.
+   - Problema 4: Uma empresa de telefonia contabiliza o tempo total de ligações de todos os seus clientes, que pode chegar a 900 trilhões de segundos. Crie uma variável `long` para armazenar o tempo total de ligações e exiba o valor.
+   - Problema 5: Um supercomputador realiza operações matemáticas extremamente rápidas, contabilizando até 1 quintilhão de cálculos por dia. Use uma variável `long` para armazenar o número de cálculos e exiba o valor.
+
+ 5. Exercícios para `float`:
+   - Problema 1: Um tanque de combustível pode armazenar até 70,5 litros de gasolina. Crie uma variável `float` para representar a quantidade de gasolina atual no tanque e exiba o valor.
+   - Problema 2: Uma conta bancária armazena valores de saldo com duas casas decimais. Declare uma variável `float` para representar o saldo da conta e exiba o valor com formato adequado.
+   - Problema 3: Um avião voa a uma velocidade que pode ser um valor decimal, como 540,75 km/h. Use uma variável `float` para armazenar a velocidade do avião e exiba o valor.
+   - Problema 4: Um sistema de monitoramento de temperatura registra a temperatura ambiente em graus Celsius com precisão decimal. Crie uma variável `float` para armazenar a temperatura e exiba o valor.
+   - Problema 5: Um produto na prateleira de um supermercado custa R$ 15,99. Declare uma variável `float` para representar o preço e calcule o valor total de 10 unidades.
+
+ 6. Exercícios para `double`:
+   - Problema 1: Um cientista realiza um experimento em que a precisão dos dados requer valores muito pequenos, como 0,000001. Use uma variável `double` para armazenar o valor da medição e exiba o resultado.
+   - Problema 2: Um astrônomo mede a distância entre estrelas em anos-luz, que podem ser valores muito grandes com precisão decimal. Declare uma variável `double` para representar a distância e exiba o valor.
+   - Problema 3: Um engenheiro calcula o volume de um cilindro com uma fórmula que envolve valores com várias casas decimais. Use uma variável `double` para representar o volume e exiba o resultado.
+   - Problema 4: Um economista calcula o PIB de um país em trilhões de dólares com precisão de duas casas decimais. Crie uma variável `double` para representar o PIB e exiba o valor.
+   - Problema 5: Um aplicativo de GPS calcula a distância percorrida por um veículo com precisão decimal, em quilômetros. Declare uma variável `double` para armazenar a distância e exiba o valor.

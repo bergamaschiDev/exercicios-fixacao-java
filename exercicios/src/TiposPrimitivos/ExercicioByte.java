@@ -14,8 +14,8 @@ public class ExercicioByte {
         System.out.println(num1 + num2);
 
         // 3 - Cast e Overflow: Declare uma variável byte e atribua o valor 130. Observe o comportamento quando você imprime o valor na tela.
-        byte primeiroValor = 150;
-        System.out.println(primeiroValor);
+        // byte primeiroValor = 150;
+        // System.out.println(primeiroValor);
 
         // 4 - Subtração: Declare duas variáveis byte, uma com o valor 50 e outra com o valor 25. Subtraia a segunda da primeira e exiba o resultado.
         byte numero1 = 50;
